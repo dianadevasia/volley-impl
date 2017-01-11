@@ -1,0 +1,6 @@
+.gradle/
+.idea/
+VolleyImagedownloading.iml
+build/
+gradle/
+gradlew.bat
